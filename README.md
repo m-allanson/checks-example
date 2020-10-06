@@ -1,3 +1,3 @@
 # checks-example
 
-Some example text here.
+Demonstrate CI checks in GitHub pull requests.
